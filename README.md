@@ -1,6 +1,6 @@
 ### Hi there 👋
-##### [My Website] (https://rickmayumi.xyz)
-###### [MAL](https://myanimelist.net/profile/ItzElite)
+
+###### [My Website]([https://myanimelist.net/profile/ItzElite](https://rickmayumi.xyz))
 ###### [MAL](https://myanimelist.net/profile/ItzElite)
 
 <!--
