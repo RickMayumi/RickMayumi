@@ -1,5 +1,5 @@
 ### Hi there 👋
-Studying Japanese, around N4 level
+Studying Japanese, around N4/N3 level
 ###### [My Website](https://rickmayumi.xyz)
 ###### [MAL](https://myanimelist.net/profile/ItzElite)
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickMayumi&theme=github_dark&show_icons=true)
